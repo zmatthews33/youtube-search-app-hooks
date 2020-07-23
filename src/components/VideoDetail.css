@@ -1,0 +1,4 @@
+.ui.list .list > .item > .image,
+.ui.list > .item > .image {
+  width: 15rem;
+}
